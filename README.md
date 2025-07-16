@@ -2,7 +2,7 @@
 
 My name is Mehmet Rodi Aydogdu.
 
-I am a Computer Engineering/Science freshman at Ihsan Dogramaci Bilkent University.
+I am a Computer Engineering/Science student at Ihsan Dogramaci Bilkent University.
 
 Programming Languages I have experience on: C/C++, python, javascript.
 

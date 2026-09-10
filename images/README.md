@@ -1,7 +1,0 @@
-# Portrait atlas
-
-`admired-portraits.png` is an original generated illustration, created with the built-in imagegen tool. Five equal horizontal slices depict Isaac Newton, Albert Einstein, Leonardo da Vinci, Steve Jobs, and Alan Turing. These are artistic interpretations, not archival photographs. The collection reflects people explicitly named by Rodi and can grow as more are supplied.
-
-Final prompt:
-
-Use case: illustration-story. Asset type: portrait texture atlas for five framed pictures in a warm 3D study. Create ONE wide image with exactly FIVE equal-width vertical panels in a single horizontal row, no margins or gaps. Each panel is a recognizable head and shoulders charcoal and graphite portrait on warm ivory paper, consistent fine-art drawing style with subtle sepia wash, detailed faces, understated plain backgrounds. Left to right EXACT ORDER: Isaac Newton (long curled hair, period coat); Albert Einstein (older, iconic unruly white hair and moustache); Leonardo da Vinci (older, long beard and Renaissance cap); Steve Jobs (round glasses, black turtleneck, short hair); Alan Turing (young adult, clean shaven, side-parted dark hair and suit). Each face centered within its own equal fifth of image with room above head, faces at same scale, shoulders cropped at bottom. No text, no names, no signatures, no borders or frames. These are clearly artistic interpretations, not photographs.
